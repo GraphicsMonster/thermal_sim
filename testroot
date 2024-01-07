@@ -1,0 +1,4 @@
+app_name = thermal_sim
+allow_warnings = false
+allow_unused = false
+allow_override = false
